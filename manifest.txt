@@ -1,0 +1,4 @@
+.\DBRE.SqlServer.psd1
+.\DBRE.SqlServer.psm1
+.\functions
+.\functions\*.ps1
